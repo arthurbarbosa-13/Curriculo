@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    background-color: #f5f5f0;
+    margin: 50px;
+}
+
+.inicio {
+    display: flex;
+}
+
+.foto {
+    width: 150px;
+    height: 150px;
+    margin-right: 30px;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+h2 {
+    color: seagreen;
+}
+
+hr {
+    border: 1px solid seagreen;
+}
